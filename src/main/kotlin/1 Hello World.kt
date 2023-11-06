@@ -5,5 +5,5 @@ fun main() {
 }
 
 fun printMyName(name: String) {
-    TODO("Let this function print your name with a string template ($)")
+    TODO("Let this function prints Hello and your name with a string template ($)")
 }
