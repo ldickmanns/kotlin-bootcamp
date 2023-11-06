@@ -7,7 +7,5 @@ fun main() {
 
     // TODO rewrite the above function as a lambda
     val greeting: (String) -> Unit = TODO()
-    // Lambdas + how their types work
-    // What is 'it'
-    // Trailing lambda parameters
+    // greeting("Bob") // Hello Bob!
 }
