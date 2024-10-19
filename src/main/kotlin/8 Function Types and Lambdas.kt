@@ -6,6 +6,6 @@ fun main() {
     greeting("Alice") // Hello Alice!
 
     // TODO rewrite the above function as a lambda
-    val greeting: (String) -> Unit = TODO()
-    // greeting("Bob") // Hello Bob!
+    val greetingLambda: (String) -> Unit = TODO()
+    // greetingLambda("Bob") // Hello Bob!
 }

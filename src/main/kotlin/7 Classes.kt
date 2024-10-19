@@ -20,5 +20,5 @@ fun main() {
     // TODO make the below lines compile
     // val square = Square(size = 2)
     // println(square.computeArea()) // 4
-    // rectangle.printInfo() // This Square has an area of 4
+    // square.printInfo() // This Square has an area of 4
 }
